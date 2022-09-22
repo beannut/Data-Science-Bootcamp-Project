@@ -25,4 +25,4 @@ join tracks on tracks.genreId = genres_name.genreId
 join invoice_items on tracks.Trackid = invoice_items.Trackid
 join invoices on invoice_items.Invoiceid = invoices.Invoiceid
 group by 2
-order by 3 desc ;
+order by 3 desc 
