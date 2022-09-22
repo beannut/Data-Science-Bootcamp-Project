@@ -14,4 +14,4 @@ This repository includes all of the projects I completed while attending the Da
 
 ## My portfolios
 
-Please see my Google Data studio dashboard [here](https://www.google.com)
+Please see my Google Data studio dashboard [here](https://github.com/beannut/Data-Science-Bootcamp-Project/blob/main/Sales_Report_Batch_5_(July_2022)%20(2).pdf)
