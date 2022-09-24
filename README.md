@@ -16,4 +16,5 @@ This repository includes all of the projects I achieved while attending the Dat
 
 Please see my SQL project [here](https://github.com/beannut/Data-Science-Bootcamp-Project/tree/main/SQL)  
 Please see my R programming project [here](https://github.com/beannut/Data-Science-Bootcamp-Project/tree/main/R%20programming)   
+Please see my Python programming project [here](https://github.com/beannut/Data-Science-Bootcamp-Project/tree/main/Python%20programming)   
 Please see my Google Data studio dashboard [here](https://github.com/beannut/Data-Science-Bootcamp-Project/blob/main/Sales_Report_Batch_5_(July_2022)%20(2).pdf)
