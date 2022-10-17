@@ -21,3 +21,4 @@ Please see my Google Data studio dashboard [here](https://github.com/beannut/Dat
 
 ## My Certificate
 Please see my Pandas Foundation Certificate [here](https://github.com/beannut/Data-Science-Bootcamp-Project/blob/main/Pandas%20Foundation-certificate.pdf)  
+Please see my Certified Professional Data Analyst [here](https://badgr.com/public/assertions/HK9Nb3BCQRitW_wWi-ovDQ?action=download)  
